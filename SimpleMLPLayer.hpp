@@ -1,9 +1,5 @@
-//
-// Created by jhwangbo on 17.04.17.
-//
-
-#ifndef RAI_SIMPLEMLP_HPP
-#define RAI_SIMPLEMLP_HPP
+#ifndef SIMPLEMLP_HPP
+#define SIMPLEMLP_HPP
 
 #include <string>
 #include <vector>
@@ -147,4 +143,4 @@ class MLP {
 };
 }
 
-#endif //RAI_SIMPLEMLP_HPP
+#endif //SIMPLEMLP_HPP
